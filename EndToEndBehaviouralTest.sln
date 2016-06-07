@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchServiceTest", "SearchServiceTest\SearchServiceTest.csproj", "{A9505073-892A-44FF-A1EF-9FD728BCB5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviouralTest.WebUI.Pages", "SpecFlowPages\BehaviouralTest.WebUI.Pages.csproj", "{DBBE6A90-EE4E-4BA7-A6B9-468EA32619EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviouralTest.WebUI.Framework", "BehaviouralTest.WebUI.Framework\BehaviouralTest.WebUI.Framework.csproj", "{FDDE3594-56B0-410C-8FF8-B3B8D9B8C408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9505073-892A-44FF-A1EF-9FD728BCB5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9505073-892A-44FF-A1EF-9FD728BCB5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9505073-892A-44FF-A1EF-9FD728BCB5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9505073-892A-44FF-A1EF-9FD728BCB5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBE6A90-EE4E-4BA7-A6B9-468EA32619EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBE6A90-EE4E-4BA7-A6B9-468EA32619EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBE6A90-EE4E-4BA7-A6B9-468EA32619EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBE6A90-EE4E-4BA7-A6B9-468EA32619EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDE3594-56B0-410C-8FF8-B3B8D9B8C408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDE3594-56B0-410C-8FF8-B3B8D9B8C408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDE3594-56B0-410C-8FF8-B3B8D9B8C408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDE3594-56B0-410C-8FF8-B3B8D9B8C408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
